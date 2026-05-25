@@ -3,6 +3,3 @@ def main():
         print("Hello, World!")  # Output message
     except Exception as e:
         print(f"An error occurred: {e}")
-11
-12
-13
